@@ -15,6 +15,8 @@
 		582AD9F91FCDA2B8007D4ABC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 582AD9F71FCDA2B8007D4ABC /* LaunchScreen.storyboard */; };
 		582ADA041FCDA2B9007D4ABC /* Lets_Craft__Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 582ADA031FCDA2B9007D4ABC /* Lets_Craft__Tests.swift */; };
 		582ADA0F1FCDA2B9007D4ABC /* Lets_Craft__UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 582ADA0E1FCDA2B9007D4ABC /* Lets_Craft__UITests.swift */; };
+		582ADA1D1FCDA3D8007D4ABC /* 65fec1032321aa3f2a06d8ed8543c7db.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 582ADA1C1FCDA3D8007D4ABC /* 65fec1032321aa3f2a06d8ed8543c7db.jpg */; };
+		582ADA1F1FCDA530007D4ABC /* aViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 582ADA1E1FCDA530007D4ABC /* aViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		582ADA0A1FCDA2B9007D4ABC /* Lets Craft !UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Lets Craft !UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		582ADA0E1FCDA2B9007D4ABC /* Lets_Craft__UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lets_Craft__UITests.swift; sourceTree = "<group>"; };
 		582ADA101FCDA2B9007D4ABC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		582ADA1C1FCDA3D8007D4ABC /* 65fec1032321aa3f2a06d8ed8543c7db.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 65fec1032321aa3f2a06d8ed8543c7db.jpg; sourceTree = "<group>"; };
+		582ADA1E1FCDA530007D4ABC /* aViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = aViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,9 +107,11 @@
 				582AD9ED1FCDA2B8007D4ABC /* ViewController.swift */,
 				582AD9EF1FCDA2B8007D4ABC /* Main.storyboard */,
 				582AD9F51FCDA2B8007D4ABC /* Assets.xcassets */,
+				582ADA1C1FCDA3D8007D4ABC /* 65fec1032321aa3f2a06d8ed8543c7db.jpg */,
 				582AD9F71FCDA2B8007D4ABC /* LaunchScreen.storyboard */,
 				582AD9FA1FCDA2B8007D4ABC /* Info.plist */,
 				582AD9F21FCDA2B8007D4ABC /* Lets_Craft__.xcdatamodeld */,
+				582ADA1E1FCDA530007D4ABC /* aViewController.swift */,
 			);
 			path = "Lets Craft !";
 			sourceTree = "<group>";
@@ -236,6 +242,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				582AD9F91FCDA2B8007D4ABC /* LaunchScreen.storyboard in Resources */,
+				582ADA1D1FCDA3D8007D4ABC /* 65fec1032321aa3f2a06d8ed8543c7db.jpg in Resources */,
 				582AD9F61FCDA2B8007D4ABC /* Assets.xcassets in Resources */,
 				582AD9F11FCDA2B8007D4ABC /* Main.storyboard in Resources */,
 			);
@@ -262,6 +269,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				582ADA1F1FCDA530007D4ABC /* aViewController.swift in Sources */,
 				582AD9EE1FCDA2B8007D4ABC /* ViewController.swift in Sources */,
 				582AD9F41FCDA2B8007D4ABC /* Lets_Craft__.xcdatamodeld in Sources */,
 				582AD9EC1FCDA2B8007D4ABC /* AppDelegate.swift in Sources */,
